@@ -15,6 +15,19 @@
 		84EF25F01EEA94E40060312A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84EF25EE1EEA94E40060312A /* LaunchScreen.storyboard */; };
 		84EF25FB1EEA94E40060312A /* OC_JSAnimateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84EF25FA1EEA94E40060312A /* OC_JSAnimateTests.m */; };
 		84EF26061EEA94E40060312A /* OC_JSAnimateUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84EF26051EEA94E40060312A /* OC_JSAnimateUITests.m */; };
+		84EF26241EEA95590060312A /* .name in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26151EEA95590060312A /* .name */; };
+		84EF26251EEA95590060312A /* canvasAni.iml in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26161EEA95590060312A /* canvasAni.iml */; };
+		84EF26261EEA95590060312A /* misc.xml in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26171EEA95590060312A /* misc.xml */; };
+		84EF26271EEA95590060312A /* modules.xml in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26181EEA95590060312A /* modules.xml */; };
+		84EF26281EEA95590060312A /* vcs.xml in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26191EEA95590060312A /* vcs.xml */; };
+		84EF26291EEA95590060312A /* workspace.xml in Resources */ = {isa = PBXBuildFile; fileRef = 84EF261A1EEA95590060312A /* workspace.xml */; };
+		84EF262A1EEA95590060312A /* canvasTest.html in Resources */ = {isa = PBXBuildFile; fileRef = 84EF261B1EEA95590060312A /* canvasTest.html */; };
+		84EF262B1EEA95590060312A /* index.css in Resources */ = {isa = PBXBuildFile; fileRef = 84EF261D1EEA95590060312A /* index.css */; };
+		84EF262C1EEA95590060312A /* DMMban.png in Resources */ = {isa = PBXBuildFile; fileRef = 84EF261F1EEA95590060312A /* DMMban.png */; };
+		84EF262D1EEA95590060312A /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26201EEA95590060312A /* index.html */; };
+		84EF262E1EEA95590060312A /* DMMban.js in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26221EEA95590060312A /* DMMban.js */; };
+		84EF262F1EEA95590060312A /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26231EEA95590060312A /* index.js */; };
+		84EF26311EEA98DA0060312A /* base.css in Resources */ = {isa = PBXBuildFile; fileRef = 84EF26301EEA98DA0060312A /* base.css */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,19 @@
 		84EF26011EEA94E40060312A /* OC_JSAnimateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OC_JSAnimateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84EF26051EEA94E40060312A /* OC_JSAnimateUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OC_JSAnimateUITests.m; sourceTree = "<group>"; };
 		84EF26071EEA94E40060312A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84EF26151EEA95590060312A /* .name */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .name; sourceTree = "<group>"; };
+		84EF26161EEA95590060312A /* canvasAni.iml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = canvasAni.iml; sourceTree = "<group>"; };
+		84EF26171EEA95590060312A /* misc.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = misc.xml; sourceTree = "<group>"; };
+		84EF26181EEA95590060312A /* modules.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = modules.xml; sourceTree = "<group>"; };
+		84EF26191EEA95590060312A /* vcs.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = vcs.xml; sourceTree = "<group>"; };
+		84EF261A1EEA95590060312A /* workspace.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = workspace.xml; sourceTree = "<group>"; };
+		84EF261B1EEA95590060312A /* canvasTest.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = canvasTest.html; sourceTree = "<group>"; };
+		84EF261D1EEA95590060312A /* index.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = index.css; sourceTree = "<group>"; };
+		84EF261F1EEA95590060312A /* DMMban.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DMMban.png; sourceTree = "<group>"; };
+		84EF26201EEA95590060312A /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		84EF26221EEA95590060312A /* DMMban.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = DMMban.js; sourceTree = "<group>"; };
+		84EF26231EEA95590060312A /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		84EF26301EEA98DA0060312A /* base.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = base.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +127,7 @@
 		84EF25DF1EEA94E40060312A /* OC_JSAnimate */ = {
 			isa = PBXGroup;
 			children = (
+				84EF26131EEA95590060312A /* canvasAni */,
 				84EF25E31EEA94E40060312A /* AppDelegate.h */,
 				84EF25E41EEA94E40060312A /* AppDelegate.m */,
 				84EF25E61EEA94E40060312A /* ViewController.h */,
@@ -138,6 +165,58 @@
 				84EF26071EEA94E40060312A /* Info.plist */,
 			);
 			path = OC_JSAnimateUITests;
+			sourceTree = "<group>";
+		};
+		84EF26131EEA95590060312A /* canvasAni */ = {
+			isa = PBXGroup;
+			children = (
+				84EF26141EEA95590060312A /* .idea */,
+				84EF261C1EEA95590060312A /* css */,
+				84EF261E1EEA95590060312A /* img */,
+				84EF26201EEA95590060312A /* index.html */,
+				84EF261B1EEA95590060312A /* canvasTest.html */,
+				84EF26211EEA95590060312A /* js */,
+			);
+			path = canvasAni;
+			sourceTree = "<group>";
+		};
+		84EF26141EEA95590060312A /* .idea */ = {
+			isa = PBXGroup;
+			children = (
+				84EF26151EEA95590060312A /* .name */,
+				84EF26161EEA95590060312A /* canvasAni.iml */,
+				84EF26171EEA95590060312A /* misc.xml */,
+				84EF26181EEA95590060312A /* modules.xml */,
+				84EF26191EEA95590060312A /* vcs.xml */,
+				84EF261A1EEA95590060312A /* workspace.xml */,
+			);
+			path = .idea;
+			sourceTree = "<group>";
+		};
+		84EF261C1EEA95590060312A /* css */ = {
+			isa = PBXGroup;
+			children = (
+				84EF261D1EEA95590060312A /* index.css */,
+				84EF26301EEA98DA0060312A /* base.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		84EF261E1EEA95590060312A /* img */ = {
+			isa = PBXGroup;
+			children = (
+				84EF261F1EEA95590060312A /* DMMban.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		84EF26211EEA95590060312A /* js */ = {
+			isa = PBXGroup;
+			children = (
+				84EF26221EEA95590060312A /* DMMban.js */,
+				84EF26231EEA95590060312A /* index.js */,
+			);
+			path = js;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,7 +325,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84EF262F1EEA95590060312A /* index.js in Resources */,
+				84EF262A1EEA95590060312A /* canvasTest.html in Resources */,
+				84EF262E1EEA95590060312A /* DMMban.js in Resources */,
+				84EF26241EEA95590060312A /* .name in Resources */,
+				84EF262B1EEA95590060312A /* index.css in Resources */,
+				84EF262D1EEA95590060312A /* index.html in Resources */,
+				84EF26271EEA95590060312A /* modules.xml in Resources */,
+				84EF262C1EEA95590060312A /* DMMban.png in Resources */,
+				84EF26291EEA95590060312A /* workspace.xml in Resources */,
+				84EF26281EEA95590060312A /* vcs.xml in Resources */,
+				84EF26311EEA98DA0060312A /* base.css in Resources */,
 				84EF25F01EEA94E40060312A /* LaunchScreen.storyboard in Resources */,
+				84EF26251EEA95590060312A /* canvasAni.iml in Resources */,
+				84EF26261EEA95590060312A /* misc.xml in Resources */,
 				84EF25ED1EEA94E40060312A /* Assets.xcassets in Resources */,
 				84EF25EB1EEA94E40060312A /* Main.storyboard in Resources */,
 			);
@@ -505,6 +597,7 @@
 				84EF260C1EEA94E40060312A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84EF260D1EEA94E40060312A /* Build configuration list for PBXNativeTarget "OC_JSAnimateTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +606,7 @@
 				84EF260F1EEA94E40060312A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84EF26101EEA94E40060312A /* Build configuration list for PBXNativeTarget "OC_JSAnimateUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +615,7 @@
 				84EF26121EEA94E40060312A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
